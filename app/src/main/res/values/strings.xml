@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mandiri Movie App</string>
+    <string name="token_api">a145dbd3bea23988dcb80b0864d565e2</string>
+    <string name="all_genres">All Genres</string>
+    <string name="source_by">Source by</string>
+    <string name="please_wait">Please Wait...</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="back_button">Back Button</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="release_date">2020 | 95 Minutes</string>
+    <string name="genre_dummy">Comedy · Adventure · Drama</string>
+    <string name="empty_overview">Empty Overview</string>
+    <string name="review">Review</string>
+    <string name="trailer">Trailer</string>
+</resources>
